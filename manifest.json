@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "SwiftCheck - Speed Test",
-  "version": "1.2.1",
-  "description": "Instant internet speed test in MB/s. Ping, download & upload — right in your browser.",
+  "version": "1.4.0",
+  "description": "Instant internet speed test — MB/s or Mbps. Ping, download & upload — right in your browser, with a full details view on request.",
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
